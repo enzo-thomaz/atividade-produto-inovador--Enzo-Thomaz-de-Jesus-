@@ -209,3 +209,15 @@ Form {
   Gap: 0.55rem; 
 
 } 
+
+Input[type=”email”] { 
+
+  Padding: 0.6rem; 
+
+  Border-radius: 0.5rem; 
+
+  Border: 1px solid #fbfcff; 
+
+  Font-size: 0.95rem; 
+
+} 
